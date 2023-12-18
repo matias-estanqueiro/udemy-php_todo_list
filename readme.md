@@ -40,7 +40,7 @@ The ToDo List application streamlines task management, enabling users to efficie
 
 1. Clone the repository:
 
--   git clone https://repository-url.git
+-   git clone https://github.com/matias-estanqueiro/udemy-php_todo_list
 
 2. Configure the database by editing src/config/conn.php with your credentials.
 3. Open Public/index.php in your browser to launch the application.
